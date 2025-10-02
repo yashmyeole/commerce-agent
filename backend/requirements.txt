@@ -1,0 +1,4 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+python-multipart==0.0.6
+qdrant-client==1.7.0   # optional later; not used in this step but handy to pin now
