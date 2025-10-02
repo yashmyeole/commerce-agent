@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p001",
+    "title": "Men's Running T-Shirt",
+    "description": "Lightweight breathable sports t-shirt, quick-dry fabric, ideal for running and workouts.",
+    "category": "t-shirts",
+    "price": 19.99,
+    "image_url": "data/images/running_tshirt.jpg"
+  },
+  {
+    "id": "p002",
+    "title": "Women Athletic Tee",
+    "description": "Comfort stretch tee for gym and yoga. Moisture-wicking and soft on skin.",
+    "category": "t-shirts",
+    "price": 22.5,
+    "image_url": "data/images/women_tee.jpg"
+  },
+  {
+    "id": "p003",
+    "title": "Performance Shorts",
+    "description": "Breathable shorts with inner lining and zip pocket. Great for running and sports.",
+    "category": "shorts",
+    "price": 24.0,
+    "image_url": "data/images/shorts.jpg"
+  }
+]
