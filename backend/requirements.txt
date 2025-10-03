@@ -4,3 +4,7 @@ python-multipart==0.0.6
 qdrant-client==1.7.0   # optional later; not used in this step but handy to pin now
 sentence-transformers>=2.2.2
 numpy>=1.24
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+pillow>=9.0.0
